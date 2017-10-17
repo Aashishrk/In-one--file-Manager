@@ -1,2 +1,2 @@
 # InOne-File-Manager
-A java desktop application that manages your local filesystem
+It is a Desktop application that logically aggregates files based on their extension. For Example all .jpg,.png,.gif will be within the music category. It helps to store information regarding file organization in storage media like DVDs, HDDs etc. It reminds the user to backup important documents and photos. It suggests the user to rename vaguely named documents like PDFs files, word files 
